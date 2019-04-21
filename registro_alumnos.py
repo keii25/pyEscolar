@@ -2,7 +2,7 @@
 # Registro de Estudiantes
 
 def menu():
-    print('\nGrado de Estudiante\n')
+    print('\nGrado de Estudiante: \n')
     print('1. Grado A')
     print('2. Grado B')
     print('3. Grado C')

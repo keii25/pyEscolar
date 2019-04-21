@@ -51,5 +51,5 @@ data = {
 
 
 result = firebase.put('/registro_alumnos_matematica/grados/grado_C', codigo, data)
-print('Datos Enviados')
+print('Datos Enviados -->')
 
