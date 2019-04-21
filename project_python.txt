@@ -1,0 +1,44 @@
+Proyecto en Python
+
+> projectfolder 
+> documentation 
+> LICENSE
+> README.md
+
+Proyecto: Sistema Escolar
+
+1. Crear una base de datos en Firebase que contenga:
+    Nombre de BD: registro_alumnos_matematica
+        GRADO A:
+            codigo:
+            nombre:
+            apellido:
+            sexo:
+            notas:          
+                nota_1
+                nota_2
+                nota_3
+                definitva
+            estado_final: (Aprobado o Reprobado)            
+
+        GRADO B: (Aplica estructura de A)--
+        GRADO C: (Aplica estructura de A)--
+
+2. Realizar en POO: (Conectado a Firebase)
+
+    Registro de Alumnos 
+    Ver Alumnos
+    Actualizar Datos
+    Eliminar
+    
+3. Crear un informe de grafica de cada grado en A, B y C, sobre el
+    numero de aprobados y reprobados. (Utilizar matplolib)
+
+4. Validar asistencia de Estudiantes
+	- Entrada
+	- Salida
+
+5. 
+
+
+
